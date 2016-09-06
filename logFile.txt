@@ -1,0 +1,18 @@
+sep. 06, 2016 1:26:23 PM server.EchoServer runServer
+INFO: Server started. Listening on: 7777, bound to localhost
+sep. 06, 2016 1:26:23 PM server.EchoServer runServer
+INFO: Connected to a client
+sep. 06, 2016 1:26:23 PM server.EchoServer handleClient
+INFO: Received the message: Hello
+sep. 06, 2016 1:26:23 PM server.EchoServer handleClient
+INFO: Received the message: HELLO
+sep. 06, 2016 1:26:23 PM server.EchoServer handleClient
+INFO: Closed a Connection
+sep. 06, 2016 1:26:23 PM server.EchoServer runServer
+INFO: Connected to a client
+sep. 06, 2016 1:26:23 PM server.EchoServer handleClient
+INFO: Received the message: Hello
+sep. 06, 2016 1:26:23 PM server.EchoServer handleClient
+INFO: Received the message: HELLO
+sep. 06, 2016 1:26:23 PM server.EchoServer handleClient
+INFO: Closed a Connection
